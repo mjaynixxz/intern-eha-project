@@ -39,13 +39,13 @@ build/Release
 
 # Dependency directories
 node_modules/
+frontend/
 jspm_packages/
 
 #Config file
 config/
 
-#FrontEnd
-FrontEnd/
+
 
 # TypeScript v1 declaration files
 typings/
