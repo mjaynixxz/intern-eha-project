@@ -1,1 +1,0 @@
-# intern-eha-project
