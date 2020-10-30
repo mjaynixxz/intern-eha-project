@@ -1,4 +1,0 @@
-{
-    "mongoURI":"mongodb+srv://intern-eha:intern-eha@cluster0.3ojgp.mongodb.net/intern-eha?retryWrites=true&w=majority",
-    "jwtSecret": "eha-interns"
-}
